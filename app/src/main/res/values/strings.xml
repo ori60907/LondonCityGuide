@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">LondonCityGuide</string>
+    <string name="learn_more_button_text">LEARN MORE!</string>
+    <string name="header_text_string">Welcome To London</string>
+    <string name="first_detail_title">Founded:</string>
+    <string name="second_detail_title">Population:</string>
+    <string name="third_detail_title">Details:</string>
+    <string name="first_details_data">50 AD</string>
+    <string name="second_details_data">8.788 milion</string>
+    <string name="third_details_data">London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times.</string>
 </resources>
